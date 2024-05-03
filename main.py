@@ -1,6 +1,6 @@
 from flask import Flask, url_for, render_template
 
-#render_tamplate busca aquivo html envia variávieis para backen
+#render_ tamplate busca aquivo html envia variávieis para backen
 
 #url_for cria url interna
 #inicialização
