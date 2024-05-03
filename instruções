@@ -1,0 +1,21 @@
+
+
+no site voçe pode ver outras instruções e instalações
+https://flask.palletsprojects.com/en/3.0.x/api/#flask.render_template
+chamar o python 
+python -m flask--app
+
+rodar aquivo
+flask --app (nom do arquivo) run
+
+saida - servidor de linguagem python
+
+---problemas ao rodar pagina comlink
+ solução/ notrminal/
+ flask run --host=o.o.o.o torna publico (talvez nao seja necessario)
+solução2/variavel de ambiente/ no terminal/
+ $env:Flask_APP= "main.py"
+
+ rodar / flask run
+
+
